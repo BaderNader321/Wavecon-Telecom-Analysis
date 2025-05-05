@@ -5,8 +5,8 @@
 * [LinkedIn Post]()
 * [Presentation Video](https://youtu.be/Sp-MkCLRiCU?si=lsVJO5wqzY7kVPBt)
 * Resources
-  * [PBIX]()
-  * [PPT]()
+  * [PBIX](https://github.com/BaderNader321/Wavecon-Telecom-Analysis/blob/b1051fdc13f85ec5e473a543464c40e10ca6e065/Presentation.pptx)
+  * [PPT](https://github.com/BaderNader321/Wavecon-Telecom-Analysis/blob/b1051fdc13f85ec5e473a543464c40e10ca6e065/Presentation.pptx)
 
 ### Table of Contents
 * [Project Overview](#project-overview)
